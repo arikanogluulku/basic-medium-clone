@@ -1,0 +1,14 @@
+.border-bottom-1{
+    
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.bg-yellow{
+    background-color:#FFC017;
+}
+.baslik{
+    font-family:'Orelega One', cursive;
+    font-weight: bold;
+}
+.font-1{
+    font-family: 'PT Serif', serif;
+}
